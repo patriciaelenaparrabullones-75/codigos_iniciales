@@ -5,7 +5,7 @@ print("")
 print("")
 print("************************************************")
 print("")
-print("Yo Patricia Elena Parra Bullones, puedo:")
+print("Yo Patricia Elena Parra Bullones:")
 print("")
 print("************************************************")
 for Posicion in MiMeta: 
@@ -13,6 +13,6 @@ for Posicion in MiMeta:
     print(*Posicion,end="")
 
 print("")  
-print("Yo Soy LA MEJOR PROGRAMADORA de Python! ")
-print("Yo Soy LA MEJOR Data Analytics! ")
+print(" ")
+print(" ")
 print("")
